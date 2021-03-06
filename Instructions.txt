@@ -1,0 +1,5 @@
+In program the class name should be Main
+
+here I am reading input from file named "input.txt" and writing output to the file named "output.txt".
+we need to take care location of file while executing program.
+ 
